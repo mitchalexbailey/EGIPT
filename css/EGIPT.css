@@ -1,0 +1,147 @@
+  @import url('https://fonts.googleapis.com/css?family=Raleway');
+
+  body {
+        font-family: 'RaleWay', sans-serif;
+  }
+
+  .main {
+    display: none;
+  }
+
+  #color-box {
+        border: 1px solid gray;
+        width: 100%;
+  }
+
+  #color-box > h4 {
+        padding-left: 20px;
+  }
+
+  #color-box > .gene-btn {
+     width: 15%;
+  }
+
+  .gene {
+      /*display: inline-block;*/
+      border: 1px solid #373737;
+      padding: 1px;
+      /*margin: 2.3%;*/
+      /*width: 6%;*/
+      /*min-width: 85px;*/
+      text-align: center;
+      /*line-height: 1.15em;*/
+      /*font-size: .9em;*/
+  }
+
+  a.disabled {
+      pointer-events: none;
+  }
+
+  .col-xs-1.gene {
+    width: 6.333333%;
+    margin: 1%
+  }
+
+  .gene > a {
+    color: black !important;
+  }
+
+  .gene:hover {
+        background-color: rgba(0,0,255,0.2) !important;
+  }
+
+  .gene-btn {
+        margin: 10px;
+        width: 100%;
+  }
+
+  #panel-search {
+     margin: 10px;
+     padding: 6px 12px;
+     width: 100%;
+  }
+
+  div.ui-tooltip {
+     background: black;
+     opacity: 0.8;
+     width: 100%;
+     color: white;
+  }
+
+  .navbar {
+    background-color: black;
+    border-color: black;
+  }
+
+  .navbar-text {
+    color: white;
+  }
+
+  .well {
+    border-radius: 0px;
+    border: 1px solid black;
+  }
+
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+  .video-overlay {
+    background-color: rgba(238, 48, 78, 0.5);
+    border: 2px solid black;
+    color: white;
+  }
+
+   .isDisabled {
+	cursor: not-allowed;
+}
+
+  /*.metabolism
+  .lysosomal
+  .cell-cycle
+  .gene-reg
+  .membrane-transport
+  .vesicle
+  .dna-repair
+  .unknown
+  .calcium-channel
+  .sodium-channel
+  .potassium-channel
+  .channel
+  .synpase-dev
+  .cell-sig
+  .cell-adhesion
+  .structure
+  .protease-inhibitor
+  .neurotrans
+  .epigenetics
+  .protease
+  .trans-factor
+  .gaba-receptor
+  .nt-receptor
+  .glut-receptor
+  .nic-receptor
+  .receptor
+  .reg
+  .apoptosis
+  .stress-response
+  .unknown
+  .mitochondrial
+  .ubiquitin
+  .membrane-protein
+  .ptm
+  .dna-synthesis
+  .nuclear-trafficking
+  .trna
+  .intra-transport
+  .ecm
+  .cell-division
+  .cytoskeleton
+  .exocytosis
+  .endocytosis
+  .peroxisome
+  .tumor-supp*/
